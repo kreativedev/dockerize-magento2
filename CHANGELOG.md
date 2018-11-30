@@ -2,6 +2,10 @@
 All notable changes to this project will be [documented](http://keepachangelog.com/) in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [v1.2.2] - 2018-11-29
+
+Changed PHP version to 7.2 in attempt to get this working with Magento 2.3.0
+
 ## [v1.2.1] - 2017-01-12
 
 Fix Nginx handling of versioned assets
